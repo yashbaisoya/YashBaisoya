@@ -1,4 +1,4 @@
-#                                                Hi there I am Yash Kumar 👋
+# Hi there I am Yash Kumar 👋
 
 
 # About Me:
